@@ -16,7 +16,6 @@ int main()
     scanf("%f",&dias);
 
     total= (dias*60)+(km*0.15);
-    
 
     printf("aluguel:%.2f\n",total);
 
