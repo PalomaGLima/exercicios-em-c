@@ -1,3 +1,5 @@
+/*02. Faça um programa que recebe um número e então imprima: “O número informado foi.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
