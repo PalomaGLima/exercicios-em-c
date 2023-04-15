@@ -17,7 +17,7 @@ int main()
 
     total= (dias*60)+(km*0.15);
 
-    printf("aluguel:%.2f\n",total);
+    printf("aluguel do carro:%.2f\n",total);
 
     return 0;
 }
